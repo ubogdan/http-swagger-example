@@ -30,3 +30,6 @@ go build
 # github.com/ubogdan/http-swagger-example/docs
 docs/docs.go:61:28: undefined: "github.com/swaggo/swag".Spec
 ```
+
+# http-swagger (1.2.1)
+see [http-swagger-upgrade](https://github.com/ubogdan/http-swagger-example/tree/http-swagger-upgrade) branch
